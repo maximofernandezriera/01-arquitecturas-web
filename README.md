@@ -81,7 +81,7 @@ En cambio, las capas lógicas (*layers*) organizan el código respecto a su func
 Como se observa, cada una de las capas se puede implementar con diferentes lenguajes de programación y/o herramientas.
 
 <figure>
-  <img src="imagenes/01/tierlayer.png" />
+  <img src="https://github.com/aitor-medrano/dwes2122/blob/master/docs/imagenes/01/tierlayer.png" />
   <figcaption>Arquitectura de tres capas físicas en tres lógicas</figcaption>
 </figure>
 
