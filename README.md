@@ -5,7 +5,7 @@ Las arquitecturas web definen la forma en que las páginas de un sitio web está
 ## Cliente / Servidor
 
 <figure>
-  <img src="https://github.com/aitor-medrano/dwes2122/blob/master/docs/images/01/clienteservidor.png" />
+  <img src="https://github.com/aitor-medrano/dwes2122/blob/master/docs/imagenes/01/clienteservidor.png" />
   <figcaption>Arquitectura Cliente Servidor</figcaption>
 </figure>
 
