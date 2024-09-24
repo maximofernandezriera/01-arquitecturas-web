@@ -61,7 +61,7 @@ Ejemplo de arquitectura en tres capas físicas (*3 tier*):
 * Servidor de base de datos
 
 <figure>
-  <img src="imagenes/01/tier3.png" />
+  <img src="https://github.com/aitor-medrano/dwes2122/blob/master/docs/imagenes/01/tier3.png" />
   <figcaption>Arquitectura de tres capas físicas</figcaption>
 </figure>
 
